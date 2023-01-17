@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/souptiksarkar60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souptiksarkar60" height="30" width="40" /></a>
-<a href="https://instagram.com/souptiksarkar147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souptiksarkar147" height="30" width="40" /></a>
+<a href="https://twitter.com/souptiksarkar60" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPONh_iAAg8aFu2q2nKlhiNl7PGA19V3l7lw&usqp=CAU" alt="souptiksarkar60" height="30" width="40" /></a>
+<a href="https://instagram.com/souptiksarkar147" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo.png" alt="souptiksarkar147" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/souptik_sarkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souptik_sarkar" height="30" width="40" /></a>
 </p>
 
