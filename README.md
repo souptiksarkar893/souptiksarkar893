@@ -127,11 +127,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=souptiksarkar893&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" width="98%" />
 </a>
 
-### 🏆 GitHub Trophies
-<a href="https://github.com/souptiksarkar893">
-  <img src="https://github-profile-trophy.vercel.app/?username=souptiksarkar893&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="98%" />
-</a>
-
 </div>
 
 ---
@@ -147,7 +142,6 @@ class Developer {
     this.role = "Full Stack Developer & UI/UX Designer";
     this.location = "India 🇮🇳";
     this.education = "B.Tech CSE (2021-2025)";
-    this.leetcode = "souptiksarkar35";
     this.motto = "Code, Design, Innovate, Repeat!";
   }
 
@@ -156,7 +150,6 @@ class Developer {
       morningBuff: "☕ Coffee",
       mainQuest: "💻 Code & Design",
       sideQuest: "🎨 Seeking inspiration from art & nature",
-      codingPractice: "🧩 LeetCode Daily Challenge",
       evening: "📚 Learning new technologies",
       night: "🌙 Building amazing projects"
     };
@@ -168,21 +161,21 @@ class Developer {
       "⚡ Building responsive & interactive UIs",
       "🔧 Architecting scalable backend solutions",
       "✨ Crafting seamless user experiences",
-      "🧩 Solving complex DSA problems",
+      "🧩 Solving complex problems",
       "🚀 Bringing visions to life, one commit at a time"
     ];
   }
-class Developer {
-  constructor() {
-    this.name = "Souptik Sarkar";
-    this.role = "Full Stack Developer & UI/UX Designer";
-    this.location = "India 🇮🇳";
-    this.education = "B.Tech CSE (2021-2025)";
-    this.motto = "Code, Design, Innovate, Repeat!";
+  
+  getCurrentStatus() {
+    return "🟢 Online | Ready for new adventures!";
   }
+}
 
-  getDailyRoutine() {
-    return {
+const souptik = new Developer();
+console.log("Ready Player One! 🎮");
+console.log(souptik.getCurrentStatus());
+```
+
 ### 🎲 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -196,6 +189,7 @@ class Developer {
 
 ### 🌟 Let's Team Up!
 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/souptiksarkar35/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souptik-sarkar-738502225)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souptiksarkar893)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://souptiksarkar893.github.io/SouptikSarkar.github.io/)
@@ -242,30 +236,6 @@ class Developer {
 
 </div>
 
-<div align="center">
-
-### 🎮 PARTY INVITES ACCEPTED FOR:
-
-**✨ Freelance Quests** • **🚀 Team Collaborations** • **💼 Full-time Adventures** • **🎯 Innovative Projects**
-
----
-
-### 🏅 ACHIEVEMENTS UNLOCKED
-
-![](https://img.shields.io/badge/Web_Development-MASTERED-00D9FF?style=for-the-badge)
-![](https://img.shields.io/badge/UI%2FUX_Design-MASTERED-00D9FF?style=for-the-badge)
-![](https://img.shields.io/badge/Full_Stack-UNLOCKED-00D9FF?style=for-the-badge)
-![](https://img.shields.io/badge/Problem_Solver-LEGENDARY-FFD700?style=for-the-badge)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=24&fontColor=fff&animation=twinkling" width="100%"/>
-
-**💙 Crafted with passion by [Souptik Sarkar](https://github.com/souptiksarkar893)**
-
-*"One pixel at a time, one commit at a time." ✨*
-
-</div>
 ---
 
 <div align="center">
@@ -282,8 +252,6 @@ class Developer {
 ![](https://img.shields.io/badge/UI%2FUX_Design-MASTERED-00D9FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Full_Stack-UNLOCKED-00D9FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Problem_Solver-LEGENDARY-FFD700?style=for-the-badge)
-
-<br>
 
 ### 📊 Profile Stats Summary
 
